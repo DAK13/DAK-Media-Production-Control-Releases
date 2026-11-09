@@ -1,0 +1,7 @@
+{
+  "version": "2.3.2",
+  "url": "https://github.com/DAK13/DAK-Media-Production-Control-Releases/releases/download/v2.3.2/DAK-Media-Production-Control-Setup-2.3.2.exe",
+  "sha256": "ac4b2ecc88cbb8492c743b523d8a628d6b8708fd1086cb7c97a55faa3dcbe800",
+  "notes": "Software Updates page redesigned with a compact layout, colored buttons and clearer status information. Author set to DAK313. Existing production functionality preserved.",
+  "companion": "No update required"
+}
